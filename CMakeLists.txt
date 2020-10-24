@@ -4,4 +4,4 @@ project(Mushroom)
 ## Compile as C++14
 add_compile_options(-std=c++14)
 
-add_executable(Mushroom  cpp_cite/引用调用函数_2.cpp)
+add_executable(Mushroom cpp_class/类_protected.cpp)
