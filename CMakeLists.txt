@@ -4,4 +4,4 @@ project(Mushroom)
 ## Compile as C++14
 add_compile_options(-std=c++14)
 
-add_executable(Mushroom cpp_class/类_protected.cpp)
+add_executable(Mushroom cpp_class/类静态成员.cpp)
