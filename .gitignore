@@ -1,8 +1,10 @@
 # cpp 编译
 cmake-build-debug/
 build/
+*.out
 
 # .idea folder
 .idea/
+.vscode/
 
 
